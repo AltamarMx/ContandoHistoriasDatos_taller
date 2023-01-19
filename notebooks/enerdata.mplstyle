@@ -1,0 +1,26 @@
+#  @file     enerdata.mplstyle
+#  @author   Guillermo Barrios <gbv@ier.unam.mx>
+#  
+#  This mpl style is intended to be used in for the dataviz project at IER-UNAM
+
+
+lines.linewidth		: 4.0
+figure.figsize 		: 10.00, 4.00
+
+
+#font.size		: 12
+#font.family		: serif
+#font.serif		: Computer Modern Roman, Times, Palatino, New Century Schoolbook, Bookman
+
+
+xtick.color		: grey
+ytick.color		: grey
+text.color		: grey
+axes.labelcolor		: grey
+
+#text.usetex		: true
+
+#azulier			: #1A3D6F
+doradoier     = #C65C25
+
+
