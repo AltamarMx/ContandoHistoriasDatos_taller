@@ -1,5 +1,5 @@
 # Taller de github
-## Para usarse como herramientas para contar historias
+## Para usarse como herramientas para contar historias con datos
 
 Repositorio para hacer practicas en el taller de Aprende a contar historias con datos
 Lxs participantes son:
