@@ -5,22 +5,31 @@
 
 
 lines.linewidth		: 4.0
-figure.figsize 		: 10.00, 4.00
+lines.color :grey       # has no affect on plot(); see axes.prop_cycle
+
+figure.figsize 		: 10.00, 7.00
 
 
-#font.size		: 12
-#font.family		: serif
-#font.serif		: Computer Modern Roman, Times, Palatino, New Century Schoolbook, Bookman
+#font.size		: 40
+#font.family		: sans-serif
+#font.serif		: Tahoma, DejaVu Sans, Lucida Grande, Verdana
 
 
 xtick.color		: grey
 ytick.color		: grey
 text.color		: grey
 axes.labelcolor		: grey
+axes.labelsize      : 14   # fontsize of the axes title
+xtick.labelsize      : 14 # fontsize of the tick labels
+ytick.labelsize      : 14 # fontsize of the tick labels
+
 
 #text.usetex		: true
 
 #azulier			: #1A3D6F
-doradoier     = #C65C25
+#doradoier     = #C65C25
+
+axes.prop_cycle : cycler('color', [ 'grey', 'grey', 'grey', 'grey', 'grey']) 
+
 
 
