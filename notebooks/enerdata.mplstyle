@@ -4,7 +4,7 @@
 #  This mpl style is intended to be used in for the dataviz project at IER-UNAM
 
 
-lines.linewidth		: 4.0
+lines.linewidth		: 6.0
 lines.color :grey       # has no affect on plot(); see axes.prop_cycle
 
 figure.figsize 		: 10.00, 7.00
