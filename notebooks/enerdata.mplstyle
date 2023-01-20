@@ -12,7 +12,7 @@ figure.figsize 		: 10.00, 7.00
 
 #font.size		: 40
 #font.family		: sans-serif
-#font.serif		: Tahoma, DejaVu Sans, Lucida Grande, Verdana
+#font.serif		: Tahoma
 
 
 xtick.color		: grey
