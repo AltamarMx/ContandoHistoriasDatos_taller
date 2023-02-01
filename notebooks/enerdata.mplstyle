@@ -4,10 +4,19 @@
 #  This mpl style is intended to be used in for the dataviz project at IER-UNAM
 
 
+axes.spines.bottom  : True
+axes.spines.left    : True
+axes.spines.right   : False
+axes.spines.top     : False
+
+
+
 lines.linewidth		: 4.0
 lines.color :grey       # has no affect on plot(); see axes.prop_cycle
+lines.markersize		: 1            # markersize, in points
 
-figure.figsize 		: 10.00, 7.00
+
+figure.figsize 		: 10.00, 10.00
 
 
 #font.size		: 40
@@ -19,9 +28,9 @@ xtick.color		: grey
 ytick.color		: grey
 text.color		: grey
 axes.labelcolor		: grey
-axes.labelsize      : 14   # fontsize of the axes title
-xtick.labelsize      : 14 # fontsize of the tick labels
-ytick.labelsize      : 14 # fontsize of the tick labels
+axes.labelsize       : 16   # fontsize of the axes title
+xtick.labelsize      : 16 # fontsize of the tick labels
+ytick.labelsize      : 16 # fontsize of the tick labels
 
 
 #text.usetex		: true
